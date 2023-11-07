@@ -10,3 +10,6 @@ int beanChecker(human somebody){
   else return 0;
 }
 ```
+- [ ] Do my homework
+- [ ] Be happy
+- [ ] Nice deep sleep
